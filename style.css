@@ -1,0 +1,26 @@
+body
+{
+  color: black;
+  background: powderblue;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 4px solid black;
+  width: 350px;
+  height: 300px; 
+}
+#result_hand_gesture
+{
+  color: black;
+}
+
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
